@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, CSS, HTML and Python**
 
-- 📫 How to reach me **coscarellipedro29@gmail.com**
+- 📫 How to reach me: **coscarellipedro29@gmail.com**
 
 - ⚡ Fun fact **I started with game development**
 
