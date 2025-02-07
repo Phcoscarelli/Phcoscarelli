@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pedro Coscarelli</h1>
 <h3 align="center">I'm a Computer Science student with focus in FullStack</h3>
 
-- 🌱 I’m currently learning **Java and C++**
+- 🌱 I’m currently learning **Python and C++**
 
 - 📫 How to reach me: **coscarellipedro29@gmail.com**
 
