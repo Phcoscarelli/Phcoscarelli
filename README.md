@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Pedro Coscarelli</h1>
-<h3 align="center">I'm a Computer Science student with focus in FullStack</h3>
+<h3 align="center">I'm a brazilian computer science student who lives to code </h3>
 
 - ⚡ Looking for a job or internship
-- 🌱 I’m currently learning **Python and C++**
+- 🌱 I’m currently learning **Python**
 - 📫 How to reach me: **coscarellipedro29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
