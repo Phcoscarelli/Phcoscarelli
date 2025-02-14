@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Pedro Coscarelli</h1>
 <h3 align="center">I'm a brazilian computer science student who lives to code and codes to live. </h3>
 
-- ⚡ Looking for a job or internship💻🤖
+- 🫱🏻‍🫲🏻 Looking for a job or internship💻🤖
 - 🌱 I’m currently learning **Python🐍👨🏻‍💻**
 - 📫 How to reach me: **coscarellipedro29@gmail.com**
+- ⚡ Fun fact: Also learning Italian XD
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
