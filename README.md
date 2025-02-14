@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phcoscarelli&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="phcoscarelli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phcoscarelli&theme=dark" alt="phcoscarelli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phcoscarelli" alt="phcoscarelli" /></p>
