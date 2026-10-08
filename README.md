@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Pedro Coscarelli</h1>
-<h3 align="center">I'm a brazilian computer science student who lives to code and codes to live. </h3>
+<h3 align="center">Junior Software Developer | TypeScript | Node.js | Java | Python</h3>
 
 - 🫱🏻‍🫲🏻 Looking for a job or internship💻🤖
-- 🌱 I’m currently learning **Java☕👨🏻‍💻**
+- 🌱 I’m currently learning **Backend development with NestJS, PostgreSQL, Prisma and Docker**
 - 📫 How to reach me: **coscarellipedro29@gmail.com**
 - ⚡ Fun fact: Also learning Italian
 
